@@ -1,3 +1,4 @@
-# My Awesome Book
+# 张正友相机标定2000年论文翻译
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+我本科毕业设计涉及到相机标定，在网上又没能找到对应论文的中文版，因此自己动手翻译。由于水平有限，错漏之处请多包涵并加以指正。
+
